@@ -17,3 +17,17 @@ BMI160 Purple Breakout module
 BMP280 Purple Breakout module
 
 3A Generic black SMD buck converter
+
+AMS1117-3.3V 
+
+10K RESISTORS
+
+2.2K RESISTORS 
+
+220R RESISTORS
+
+USB C BREAKOUT 6P
+
+x1 10UF electrolytic cap
+
+x2 SHOTTKEY DIODE
